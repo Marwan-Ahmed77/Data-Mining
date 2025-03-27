@@ -1,2 +1,2 @@
 # Data Mining
- Data Mining Project (Cars_Sallaries)
+ Data Mining Project (Cars_Prices)
